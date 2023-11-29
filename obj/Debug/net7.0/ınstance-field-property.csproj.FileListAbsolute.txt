@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\ınstance-field-property\bin\Debug\net7.0\ınstance-field-property.exe
+C:\Users\beyza\Desktop\C#\ınstance-field-property\bin\Debug\net7.0\ınstance-field-property.deps.json
+C:\Users\beyza\Desktop\C#\ınstance-field-property\bin\Debug\net7.0\ınstance-field-property.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\ınstance-field-property\bin\Debug\net7.0\ınstance-field-property.dll
+C:\Users\beyza\Desktop\C#\ınstance-field-property\bin\Debug\net7.0\ınstance-field-property.pdb
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.dll
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\refint\ınstance-field-property.dll
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.pdb
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ınstance-field-property.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\ınstance-field-property\obj\Debug\net7.0\ref\ınstance-field-property.dll
